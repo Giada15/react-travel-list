@@ -1,3 +1,6 @@
+This repository contains exercises I completed while taking The Ultimate React Course 2025: React, Next.js, Redux & More on Udemy.
+All code is written by me, following the course tutorials, for learning purposes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
