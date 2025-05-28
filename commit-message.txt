@@ -1,0 +1,6 @@
+feat: lift items state to App and pass it as props to Form and PackingList
+
+- Created items state in App component
+- Added handleAddItem function to update items
+- Passed handleAddItem to Form component to enable adding new items
+- Passed items to PackingList component to render list in the UI
